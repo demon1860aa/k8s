@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.6
+MAINTAINER demon1860aa<demon1860aa@sina.com>
